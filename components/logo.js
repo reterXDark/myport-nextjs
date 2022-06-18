@@ -26,7 +26,7 @@ const Logo = () => {
   const footPrintImg = `/images/footprint${useColorModeValue('', '-dark')}.png`
 
   return (
-    <Link href="/" scroll={false}>
+    <Link href="/" scroll={false} passHref={true}>
       <a>
         <LogoBox>
           <IoArrowForward style={{ marginRight: 6 }} />

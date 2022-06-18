@@ -36,7 +36,7 @@ const Posts = () => (
         </SimpleGrid> */}
         <List>
           <ListItem ml={20}>
-            <Link href="#" target="_top">
+            <Link href="#" target="_top" passHref={true}>
               <Button
                 // variant="ghost"
                 colorScheme="red"
