@@ -19,8 +19,8 @@ const Work = () => (
       </Title>
       <P>
         STYLY Studio is a creative tool for VR, allowing you to build virtual
-        spaces towards extending fashion brand&apos;s expression ability of
-        their concept. I built its web UI and backend.
+        spaces towards extending fashion brands expression ability of their
+        concept. I built its web UI and backend.
       </P>
 
       <List ml={4} my={4}>

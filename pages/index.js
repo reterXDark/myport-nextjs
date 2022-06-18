@@ -49,7 +49,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m a Software Engineer based in Pakistan!
+        Hello, I am a Software Engineer based in Pakistan!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -110,7 +110,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2021</BioYear>
-          Completed the Bechelor&apos;s Program in Computer Science at National
+          Completed the Bechelors Program in Computer Science at National
           Textile University, Faisalabad (نیشنل ٹیکسٹائل یونیورسٹی, فیصل آباد)
         </BioSection>
         <BioSection>
@@ -128,7 +128,7 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          Islamic Podcast, designing, Photography, Programming. 💁‍♂️
+          Islamic Podcast, designing, Photography, Programming.
         </Paragraph>
       </Section>
 
