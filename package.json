@@ -1,7 +1,7 @@
 {
   "name": "craftzdog-homepage",
   "version": "1.0.0",
-  "description": "Takuya's website",
+  "description": "Tauqeer's website",
   "engines": {
     "node": "16.15.1"
   },
@@ -13,7 +13,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Takuya Matsuyama",
+  "author": "Tauqeer Nasir",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
