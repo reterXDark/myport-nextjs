@@ -144,7 +144,7 @@ const Home = () => (
                 colorScheme="gray"
                 leftIcon={<IoLogoGithub />}
               >
-                My Github Repositry to see Current project I'm Working on it!
+                My Github Repositry to see Current project Im Working on it!
               </Button>
             </Link>
           </ListItem>
@@ -205,7 +205,7 @@ const Home = () => (
                 colorScheme="green"
                 leftIcon={<IoLogoNodejs />}
               >
-                Node.js (Rest API's)
+                Node.js (Rest APIs)
               </Button>
             </Link>
           </ListItem>
