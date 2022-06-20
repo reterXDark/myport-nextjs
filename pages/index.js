@@ -144,7 +144,7 @@ const Home = () => (
                 colorScheme="gray"
                 leftIcon={<IoLogoGithub />}
               >
-                My Github Repositry to see Current project Im Working on it!
+                See my github!
               </Button>
             </Link>
           </ListItem>
