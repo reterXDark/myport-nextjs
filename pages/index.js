@@ -148,12 +148,13 @@ const Home = () => (
               </Button>
             </Link>
           </ListItem>
-          <ListItem ml={20}>
+          <ListItem>
             <Link href="#" target="_top">
               <Button
                 // variant="ghost"
                 colorScheme="red"
                 leftIcon={<IoLogoClosedCaptioning />}
+                disabled={true}
               >
                 This Section is Under Developement Phase!
               </Button>

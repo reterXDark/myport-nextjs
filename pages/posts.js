@@ -21,7 +21,7 @@ import { IoLogoClosedCaptioning } from 'react-icons/io5'
 
 const Posts = () => (
   <Layout title="Posts">
-    <Container>
+    <Container centerContent={true}>
       <Heading as="h3" fontSize={20} mb={4}>
         Popular Blogs
       </Heading>
@@ -35,7 +35,7 @@ const Posts = () => (
           />
         </SimpleGrid> */}
         <List>
-          <ListItem ml={20}>
+          <ListItem>
             <Link href="#" target="_top" passHref={true}>
               <Button
                 // variant="ghost"
